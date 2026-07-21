@@ -5,7 +5,7 @@
 ![img_3.png](img_3.png)
 ## 技术栈
 
-| 层 | 技术 | 
+| 层 | 技术 |
 |---|---|
 | 后端 | Python · FastAPI · LangChain 0.3 · SQLite · JWT(bcrypt) |
 | 前端 | React 18 · Vite · TypeScript · Ant Design 5 |
